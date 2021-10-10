@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Herman 👋 I'm a 🚀 Software Developer 🚀>
+</p>
+
 <h1 align="center">Hi 👋, I'm Herman Bimikwe</h1>
 - 📫 How to reach me **bimikwe.herman@gmail.com**
 
