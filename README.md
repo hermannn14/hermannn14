@@ -1,6 +1,7 @@
 <!-- <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Herman 👋 I'm a 🚀 Software Developer 🚀>
 </p> -->
+![github3](https://user-images.githubusercontent.com/84743716/138579281-9f7ee038-09a9-4d1e-bf1a-8a169d86f291.gif)
 
 <h1 align="center">Hi 👋, I'm Herman Bimikwe</h1>
 - 📫 How to reach me **bimikwe.herman@gmail.com**
