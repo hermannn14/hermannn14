@@ -4,9 +4,9 @@
 ![github3](https://user-images.githubusercontent.com/84743716/138579281-9f7ee038-09a9-4d1e-bf1a-8a169d86f291.gif)
 
 <h1 align="center">👋 Welcome to my Creative Space</h1>
-- 📫 How to reach me **bimikwe.herman@gmail.com**
+📫 How to reach me **BIMIKWE.HERMAN@GMAIL.COM**
 
-- ⚡ Fun fact **I can solve a rubik's cube**
+⚡ Fun fact **I can solve a rubik's cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
