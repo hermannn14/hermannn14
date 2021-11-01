@@ -6,7 +6,7 @@
 <h1 align="center">👋 Welcome to my Creative Space</h1>
 📫 How to reach me **BIMIKWE.HERMAN@GMAIL.COM**
 
-⚡ Fun fact **I can solve a rubik's cube**
+⚡ Fun fact:  **I can solve a rubik's cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
